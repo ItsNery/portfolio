@@ -5,6 +5,7 @@ dist/
 !.env.example
 .impeccable/review/
 .impeccable/build/
+.impeccable/mocks/
 .impeccable/questions/
 .openai/.local/
 *.local
