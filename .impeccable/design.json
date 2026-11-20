@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-19T15:19:44.434662Z",
+  "title": "Design System: Nery · Mapa interactivo",
+  "extensions": {
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "700px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "recorrido",
+        "value": "smooth",
+        "purpose": "La persona se desplaza entre destinos; se respeta el movimiento reducido."
+      }
+    ]
+  },
+  "components": [],
+  "narrative": {
+    "northStar": "Un territorio por conocer",
+    "overview": "Mapa interactivo de Tlaxcala para explorar el origen, los proyectos y la trayectoria de Nery.",
+    "keyCharacteristics": [
+      "Poppins",
+      "Mapa y personaje",
+      "Fotografías con crédito",
+      "Contorno del INEGI",
+      "Cuaderno de capítulos"
+    ],
+    "rules": [
+      {
+        "name": "Fuentes visibles",
+        "body": "Atribuir imágenes y datos geográficos.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Mantener acceso directo a los contenidos."
+    ],
+    "donts": [
+      "Inventar contribuciones o estadísticas."
+    ]
+  }
+}

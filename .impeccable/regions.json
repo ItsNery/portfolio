@@ -1,0 +1,269 @@
+{
+  "regions": [
+    {
+      "id": "paper",
+      "kind": "texture",
+      "pixelBox": {
+        "x": 220,
+        "y": 8,
+        "w": 80,
+        "h": 45
+      },
+      "note": "Light ivory paper grain, clean material sample for the page ground."
+    },
+    {
+      "id": "terrain",
+      "kind": "plate",
+      "pixelBox": {
+        "x": 0,
+        "y": 68,
+        "w": 1536,
+        "h": 880
+      },
+      "bleed": true,
+      "note": "Interpretive topographic watercolor landscape: green terrain, fine contour lines, botanical plants, amber winding trail, blank ivory clearings behind semantic content. Illustration fills and deliberately bleeds beyond the viewport sides."
+    },
+    {
+      "id": "wordmark",
+      "kind": "text",
+      "pixelBox": {
+        "x": 76,
+        "y": 10,
+        "w": 112,
+        "h": 39
+      },
+      "note": "Nery. wordmark. Poppins requested explicitly by Nery replaces the reference serif."
+    },
+    {
+      "id": "nav-origin",
+      "kind": "control",
+      "pixelBox": {
+        "x": 801,
+        "y": 18,
+        "w": 83,
+        "h": 27
+      },
+      "note": "Origen navigation link."
+    },
+    {
+      "id": "nav-contributions",
+      "kind": "control",
+      "pixelBox": {
+        "x": 936,
+        "y": 18,
+        "w": 167,
+        "h": 27
+      },
+      "note": "Contribuciones navigation link."
+    },
+    {
+      "id": "nav-workshop",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1144,
+        "y": 18,
+        "w": 62,
+        "h": 27
+      },
+      "note": "Taller navigation link."
+    },
+    {
+      "id": "nav-logbook",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1253,
+        "y": 18,
+        "w": 87,
+        "h": 27
+      },
+      "note": "Bitácora navigation link."
+    },
+    {
+      "id": "nav-github",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1387,
+        "y": 18,
+        "w": 101,
+        "h": 27
+      },
+      "note": "GitHub external link and arrow icon."
+    },
+    {
+      "id": "headline",
+      "kind": "text",
+      "pixelBox": {
+        "x": 73,
+        "y": 163,
+        "w": 590,
+        "h": 184
+      },
+      "note": "Un territorio / por conocer. Main heading in Poppins, per explicit user typography override."
+    },
+    {
+      "id": "introduction",
+      "kind": "text",
+      "pixelBox": {
+        "x": 86,
+        "y": 371,
+        "w": 465,
+        "h": 63
+      },
+      "note": "Soy Nery. Wikimedista y caminante. De Buenavista, Tlaxco."
+    },
+    {
+      "id": "origin-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 984,
+        "y": 167,
+        "w": 278,
+        "h": 39
+      },
+      "note": "01 Buenavista heading with route stop number."
+    },
+    {
+      "id": "origin-subtitle",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1032,
+        "y": 214,
+        "w": 227,
+        "h": 26
+      },
+      "note": "Mi punto de partida subtitle."
+    },
+    {
+      "id": "origin-description",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1031,
+        "y": 262,
+        "w": 309,
+        "h": 26
+      },
+      "note": "Todo empieza en Buenavista. Short origin description."
+    },
+    {
+      "id": "origin-action",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1033,
+        "y": 299,
+        "w": 240,
+        "h": 45
+      },
+      "note": "Abrir este lugar button with a warm amber background and arrow."
+    },
+    {
+      "id": "knowledge-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 673,
+        "y": 418,
+        "w": 339,
+        "h": 36
+      },
+      "note": "02 Conocimiento libre route stop title."
+    },
+    {
+      "id": "knowledge-subtitle",
+      "kind": "text",
+      "pixelBox": {
+        "x": 721,
+        "y": 454,
+        "w": 286,
+        "h": 25
+      },
+      "note": "Wikipedia · Commons · Wikidata subtitle."
+    },
+    {
+      "id": "knowledge-arrow",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1034,
+        "y": 437,
+        "w": 16,
+        "h": 26
+      },
+      "note": "Chevron for the knowledge route stop."
+    },
+    {
+      "id": "project-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 534,
+        "y": 598,
+        "w": 227,
+        "h": 35
+      },
+      "note": "03 RutasWiki route stop title."
+    },
+    {
+      "id": "project-subtitle",
+      "kind": "text",
+      "pixelBox": {
+        "x": 585,
+        "y": 635,
+        "w": 287,
+        "h": 24
+      },
+      "note": "Proyecto personal · En desarrollo subtitle."
+    },
+    {
+      "id": "project-arrow",
+      "kind": "control",
+      "pixelBox": {
+        "x": 888,
+        "y": 617,
+        "w": 17,
+        "h": 24
+      },
+      "note": "Chevron for the RutasWiki route stop."
+    },
+    {
+      "id": "logbook-title",
+      "kind": "text",
+      "pixelBox": {
+        "x": 532,
+        "y": 764,
+        "w": 180,
+        "h": 35
+      },
+      "note": "04 Bitácora route stop title."
+    },
+    {
+      "id": "logbook-arrow",
+      "kind": "control",
+      "pixelBox": {
+        "x": 736,
+        "y": 769,
+        "w": 19,
+        "h": 25
+      },
+      "note": "Chevron for the logbook route stop."
+    },
+    {
+      "id": "map-caption",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1156,
+        "y": 798,
+        "w": 321,
+        "h": 23
+      },
+      "note": "Mapa personal · Ilustración interpretativa caption."
+    },
+    {
+      "id": "next-heading",
+      "kind": "text",
+      "pixelBox": {
+        "x": 74,
+        "y": 944,
+        "w": 623,
+        "h": 54
+      },
+      "note": "Historia que compartimos heading, beginning of the section after the map. Poppins replaces reference serif."
+    }
+  ]
+}
